@@ -1,0 +1,22 @@
+Which Svelte app template? » - Use arrow-keys. Return to submit.
+>   SvelteKit demo app
+    Skeleton project
+
+ Which Svelte app template? » SvelteKit demo app
+v Use TypeScript? ... No / Yes
+v Add ESLint for code linting? ... No / Yes
+v Add Prettier for code formatting? ... No / Yes
+? Copied project files
+
+Want to add other parts to your code base? Visit https://github.com/svelte-add/svelte-adders, a community project of commands to add particular functionality to Svelte projects
+
+
+Next steps:
+  1: cd my-app-sveltekit1
+  2: npm install (or pnpm install, etc)
+  3: git init && git add -A && git commit -m "Initial commit" (optional step)
+  4: npm run dev -- --open
+
+To close the dev server, hit Ctrl-C
+
+Stuck? Visit us at https://svelte.dev/chat
